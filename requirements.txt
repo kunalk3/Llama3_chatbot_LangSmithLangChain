@@ -1,0 +1,6 @@
+langchain==0.2.11
+langchain-community==0.2.10
+langchain-core==0.2.35
+langsmith==0.1.93
+python-dotenv==1.0.1
+streamlit==1.36.0
